@@ -1,4 +1,4 @@
  </div>
 <div align="center">
 
-  <src="https://ibb.co/4RqNTpZZ">
+![Иллюстрация к проекту](https://ibb.co/4RqNTpZZ)
